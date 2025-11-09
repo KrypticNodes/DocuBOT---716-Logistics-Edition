@@ -5,3 +5,4 @@ export default function Home() {
     <ChatWindow placeholder="Try asking something about the document you just uploaded!"></ChatWindow>
   );
 }
+<h1 className="text-4xl font-bold mb-8">DocuBot – Buffalo Privacy AI (Logistics & Healthcare)</h1>
